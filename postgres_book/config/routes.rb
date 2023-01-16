@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   # root "articles#index"
   root "application#home"
   resources :bookstock
+  resources :author
+  resources :bookname
 end
