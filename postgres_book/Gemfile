@@ -76,3 +76,4 @@ group :development, :test do
   gem "rswag-specs"
 end
 gem 'rswag'
+gem  "rack-cors"
